@@ -3,3 +3,4 @@
 pwd
 echo " hello world"
 date
+free
